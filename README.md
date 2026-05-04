@@ -6,7 +6,7 @@ Este projeto nasceu da união entre o útil e o agradável. Durante meus estudos
 
 A ideia foi transformar o aprendizado técnico em diversão, criando uma arena onde o usuário pode selecionar seus Pokémon favoritos diretamente da PokéAPI e colocá-los para batalhar em um sistema de turnos dinâmico.
 
-🚀 O que este projeto exercita?
+🚀 O que este projeto exercita? <br>
 Consumo de API: Integração com a PokéAPI para buscar dados reais (stats, tipos e sprites).
 
 Fundamentos de Node.js: Uso de JavaScript assíncrono (Async/Await) para gerenciar as requisições.
